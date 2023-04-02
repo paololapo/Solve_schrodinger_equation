@@ -1,4 +1,4 @@
-# Numerical solution of Schrodinger equation
+# Numerical solution for Schrodinger equation
 
 ## Time independent Schrodinger equation
 
@@ -19,4 +19,14 @@ where $y$ is the $\Psi$ vector and $c$ stores the different potentials.
 
 ## Time dependent Schrodinger equation 
 
-__ to do __
+The **Crank-Nicolson algorithm** is a numerical method for solving the time-dependent Schrödinger equation. It is based on the Crank-Nicolson discretization, which approximates the spatial and temporal derivatives in the Schrödinger equation using a central difference scheme.
+
+For the initial wave function given by $\psi_0(x) = e^{i q x} e^{-\frac{(x-x_0)^2}{2\sigma^2}}$, we can use the Crank-Nicolson algorithm to simulate the time evolution of the wave function in a step potential with the boundary condition of a box.
+
+Here's a quick visualization of the results:
+
+<p align="center">
+  <img src="images\wave_function.png" width="60%">
+  <img src="images\psi.gif" width="30%">
+</p>
+
