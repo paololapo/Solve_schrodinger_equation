@@ -12,9 +12,9 @@ $$y_i = \frac{(10h^2(-2(E-c_{i-1})+24)y_{i-1}+(-2(E-c_{i-2})h^2-12)y_{i-2})}{12+
 where $y$ is the $\Psi$ vector and $c$ stores the different potentials. 
 
 <p align="center">
-  <img src="image1.jpg" width="250" height="250">
-  <img src="image2.jpg" width="250" height="250">
-  <img src="image3.jpg" width="250" height="250">
+  <img src="images\image1.png" style="margin-right: 40px;" width="250" height="250">
+  <img src="images\image2.png" style="margin-right: 40px;" width="250" height="250">
+  <img src="images\image3.png" width="250" height="250">
 </p>
 
 ## Time dependent Schrodinger equation 
