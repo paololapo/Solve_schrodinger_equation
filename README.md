@@ -12,9 +12,9 @@ $$y_i = \frac{(10h^2(-2(E-c_{i-1})+24)y_{i-1}+(-2(E-c_{i-2})h^2-12)y_{i-2})}{12+
 where $y$ is the $\Psi$ vector and $c$ stores the different potentials. 
 
 <p align="center">
-  <img src="images\image1.png" width="30%">
-  <img src="images\image2.png" width="30%">
-  <img src="images\image3.png" width="30%">
+  <img src="images/image1.png" width="30%">
+  <img src="images/image2.png" width="30%">
+  <img src="images/image3.png" width="30%">
 </p>
 
 ## Time dependent Schrodinger equation 
@@ -26,7 +26,7 @@ For the initial wave function given by $\psi_0(x) = e^{i q x} e^{-\frac{(x-x_0)^
 Here's a quick visualization of the results:
 
 <p align="center">
-  <img src="images\wave_function.png" width="60%">
-  <img src="images\psi.gif" width="30%">
+  <img src="images/wave_function.png" width="60%">
+  <img src="images/psi.gif" width="32.5%">
 </p>
 
